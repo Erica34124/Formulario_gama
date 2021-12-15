@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: auto;
+    background-color: aqua;
+    margin: 20px  auto;
+    padding: 20px ;
+}
+h1{
+    text-align: center;
+}
+.pSection{
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px auto;
+    background-color: rgb(243, 148, 207);
+}
+.formatUl{
+   padding-top: 20px;
+    margin-left: 40px;
+    
+}
